@@ -1,2 +1,7 @@
-# mewtaskscript
-MewTasks is a console python simple program for tasks
+========================================================
+ # MewTasks is a simple console app for managing tasks!
+
+MewTasks это простое консольное приложение для управления задачами!
+========================================================
+
+## Есть 2 версии с английским и русским интерфейсом.
